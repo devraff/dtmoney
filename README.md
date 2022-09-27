@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💵 DtMoney </h1>
   
-![rocketseat](https://user-images.githubusercontent.com/80493033/192561826-dfd0c220-0734-4fb4-86d3-4ee36e3bf448.gif)
+![stonks](https://user-images.githubusercontent.com/80493033/192627209-9cf65ccd-fcc2-4e2f-b043-e1068f5a16a9.gif)
   
 </div>
 
